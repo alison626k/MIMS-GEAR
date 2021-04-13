@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MIMS-GEAR/static/css/main.20fc0845.chunk.css",
-    "main.js": "/MIMS-GEAR/static/js/main.dae76589.chunk.js",
-    "main.js.map": "/MIMS-GEAR/static/js/main.dae76589.chunk.js.map",
+    "main.js": "/MIMS-GEAR/static/js/main.8339bfd8.chunk.js",
+    "main.js.map": "/MIMS-GEAR/static/js/main.8339bfd8.chunk.js.map",
     "runtime-main.js": "/MIMS-GEAR/static/js/runtime-main.e76cbb70.js",
     "runtime-main.js.map": "/MIMS-GEAR/static/js/runtime-main.e76cbb70.js.map",
     "static/js/2.99e4adec.chunk.js": "/MIMS-GEAR/static/js/2.99e4adec.chunk.js",
     "static/js/2.99e4adec.chunk.js.map": "/MIMS-GEAR/static/js/2.99e4adec.chunk.js.map",
     "index.html": "/MIMS-GEAR/index.html",
-    "precache-manifest.a34892c6e1c5ec11b399015393530434.js": "/MIMS-GEAR/precache-manifest.a34892c6e1c5ec11b399015393530434.js",
+    "precache-manifest.9d4c02733eb93fd166f4b3baecb7eded.js": "/MIMS-GEAR/precache-manifest.9d4c02733eb93fd166f4b3baecb7eded.js",
     "service-worker.js": "/MIMS-GEAR/service-worker.js",
     "static/css/main.20fc0845.chunk.css.map": "/MIMS-GEAR/static/css/main.20fc0845.chunk.css.map",
     "static/js/2.99e4adec.chunk.js.LICENSE.txt": "/MIMS-GEAR/static/js/2.99e4adec.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.e76cbb70.js",
     "static/js/2.99e4adec.chunk.js",
     "static/css/main.20fc0845.chunk.css",
-    "static/js/main.dae76589.chunk.js"
+    "static/js/main.8339bfd8.chunk.js"
   ]
 }
